@@ -61,3 +61,4 @@ The chances that this could happen if there really is no difference between C39 
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+In summary, the cultivation method for C52 contains more vitamin C than the cultivation method for C39. The box plot, numerical descriptive results, and the inferential results clearly shows that the cultivation method for C52 is more beneficial than C39. The hypothesis from the inferential data states that there is no difference between the cultivation methods of C39 and C52, but only at a 0.00000003405% chance of being true. C52 cultivation methods reign supreme in all categories than C39 could ever do.
